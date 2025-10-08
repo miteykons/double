@@ -6,8 +6,6 @@ We believe that the best discussions arise around working code, not abstract ide
 
 ## Now let's break it down point by point...
 
----
-
 ![Alt text](docs/img1.png "Optional Title")
 
 ### **Have an idea and want to implement something?**
@@ -51,6 +49,8 @@ Your path will look like this:
 10. Update the PR
 ```
 
+---
+
 ### Review process for any code you want to merge
 ```
 - Maintainers and community will provide feedback in comments
@@ -58,6 +58,8 @@ Your path will look like this:
 - When everything is ready, remove [WIP] from the title
 - After approval and passing tests, the PR will be merged
 ```
+
+---
 
 ### Code requirements
 ```
@@ -68,12 +70,16 @@ Your path will look like this:
 - Description clearly explains the changes
 ```
 
+---
+
 ### Project protection
 ```
 - `main` branch is protected — only maintainers can merge
 - All changes go through code review and automatic checks
 - Branches are automatically deleted after PR merge
 ```
+
+---
 
 ### Communication
 ```
