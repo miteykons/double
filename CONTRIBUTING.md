@@ -9,6 +9,7 @@ We believe that the best discussions arise around working code, not abstract ide
 ---
 
 ![Alt text](docs/img1.png "Optional Title")
+
 **Have an idea and want to implement something?**
 ```
 Your path will look like this:
@@ -23,6 +24,7 @@ Your path will look like this:
 ---
 
 ![Alt text](docs/image2.png "Optional Title")
+
 **Have an idea you just want to share?**
 ```
 Your path will look like this:
@@ -33,6 +35,7 @@ Your path will look like this:
 ---
 
 ![Alt text](docs/image3.png "Optional Title")
+
 **Or just want to build something manually...**
 ```
 Your path will look like this:
