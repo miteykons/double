@@ -1,8 +1,16 @@
-# Header image
+![Alt text](docs/main.png "Optional Title")
 
 # 🧠 SGR Deep Research - Open-Source Schema-Guided Reasoning System
 
-## Description
+## 📚 Documents
+
+[Project's Wiki](https://github.com/miteykons/double/wiki) - Main documentation of project
+
+[Quick start](https://github.com/miteykons/double/wiki/%F0%9F%9A%80-SGR:-Quick-Start) - Data for quick start
+
+[Description API](https://github.com/miteykons/double/wiki/%F0%9F%94%8C-SGR:-Description-API) - Description API with examples using
+
+## 📖 Description
 
 Production-ready open-source system for automated research using Schema-Guided Reasoning (SGR). Features real-time streaming responses, OpenAI-compatible API, and comprehensive research capabilities with agent interruption support.
 
@@ -12,22 +20,9 @@ This project is developed by the **neuraldeep** community. It is inspired by the
 
 If you have any questions - feel free to reach out to [Valerii Kovalskii](https://www.linkedin.com/in/vakovalskii/).
 
-## 👥 Open-Source Development Team
+## 🚀 Main use-cases
 
-This project is built by the community with pure enthusiasm as an open-source initiative:
-
-* **SGR Concept Creator** // [@abdullin](https://t.me/llm_under_hood)
-* **Project Coordinator & Vision** // [@VaKovaLskii](https://t.me/neuraldeep) 
-* **Lead Core Developer** // [@virrius](https://t.me/virrius_tech) 
-* **API Development** // [Pavel Zloi](https://t.me/evilfreelancer)
-* **Hybrid FC Mode** // [@Shadekss](https://t.me/Shadekss)
-* **DevOps & Deployment** // [@mixaill76](https://t.me/mixaill76) 
-
-*All development is driven by pure enthusiasm and open-source community collaboration. We welcome contributors of all skill levels!*
-
-## Main use-cases
-
-The SGR system excels at various research scenarios:
+### The SGR system excels at various research scenarios:
 
 - **Market Research**: "Analyze BMW X6 2025 pricing across European markets"
 - **Technology Trends**: "Research current developments in quantum computing"  
@@ -43,3 +38,15 @@ The SGR system excels at various research scenarios:
 5. **📝 Report Creation** - detailed report creation
 6. **✅ Completion** - task completion
 
+## 👥 Open-Source Development Team
+
+### This project is built by the community with pure enthusiasm as an open-source initiative:
+
+* **SGR Concept Creator** // [@abdullin](https://t.me/llm_under_hood)
+* **Project Coordinator & Vision** // [@VaKovaLskii](https://t.me/neuraldeep) 
+* **Lead Core Developer** // [@virrius](https://t.me/virrius_tech) 
+* **API Development** // [Pavel Zloi](https://t.me/evilfreelancer)
+* **Hybrid FC Mode** // [@Shadekss](https://t.me/Shadekss)
+* **DevOps & Deployment** // [@mixaill76](https://t.me/mixaill76) 
+
+*All development is driven by pure enthusiasm and open-source community collaboration. We welcome contributors of all skill levels!*
