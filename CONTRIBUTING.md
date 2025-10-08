@@ -1,16 +1,16 @@
-### Introduction
+# Introduction
 
 **In this project, we follow the principle of "Code over Conversations" and recommend that all newcomers adhere to this approach as well.**
 
 We believe that the best discussions arise around working code, not abstract ideas. Here you don't need to ask for permission or go through quests to create tasks. Just start — and your Pull Request will become the best beginning for discussion.
 
-### Now let's break it down point by point...
+## Now let's break it down point by point...
 
 ---
 
 ![Alt text](docs/img1.png "Optional Title")
 
-**Have an idea and want to implement something?**
+### **Have an idea and want to implement something?**
 ```
 Your path will look like this:
 1. Clone the repository to your local machine
@@ -25,7 +25,7 @@ Your path will look like this:
 
 ![Alt text](docs/image2.png "Optional Title")
 
-**Have an idea you just want to share?**
+### **Have an idea you just want to share?**
 ```
 Your path will look like this:
 1. Go to the "Issues" tab
@@ -36,7 +36,7 @@ Your path will look like this:
 
 ![Alt text](docs/image3.png "Optional Title")
 
-**Or just want to build something manually...**
+### **Or just want to build something manually...**
 ```
 Your path will look like this:
 1. Go to the "Issues" tab
@@ -69,12 +69,16 @@ Your path will look like this:
 ```
 
 ### Project protection
+```
 - `main` branch is protected — only maintainers can merge
 - All changes go through code review and automatic checks
 - Branches are automatically deleted after PR merge
+```
 
 ### Communication
+```
 All communication takes place in several places:
 - "Issues" tab + relevant topic
 - PR + relevant request
 - TG group @sgr-community
+```
