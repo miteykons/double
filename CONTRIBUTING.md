@@ -1,5 +1,3 @@
-![Alt text](docs/workflow.png "Optional Title")
-
 ### Introduction
 
 **In this project, we follow the principle of "Code over Conversations" and recommend that all newcomers adhere to this approach as well.**
@@ -8,6 +6,9 @@ We believe that the best discussions arise around working code, not abstract ide
 
 ### Now let's break it down point by point...
 
+---
+
+![Alt text](docs/img1.png "Optional Title")
 **Have an idea and want to implement something?**
 ```
 Your path will look like this:
@@ -19,7 +20,9 @@ Your path will look like this:
 6. Push to your remote branch
 7. Update the PR
 ```
+---
 
+![Alt text](docs/image2.png "Optional Title")
 **Have an idea you just want to share?**
 ```
 Your path will look like this:
@@ -27,7 +30,9 @@ Your path will look like this:
 2. Create an issue and start the discussion
 3. Communicate your idea with the community
 ```
+---
 
+![Alt text](docs/image3.png "Optional Title")
 **Or just want to build something manually...**
 ```
 Your path will look like this:
